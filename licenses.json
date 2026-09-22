@@ -1,0 +1,19 @@
+{
+  "licenses": {
+    "SAMIR-0249-B52B-5A46": {
+      "active": true,
+      "expires": "2028-12-31",
+      "hwid": "",
+      "max_devices": 1,
+      "note": "Samir Admin"
+    },
+    "SAMIR-VIP1-0301-3333": {
+      "active": true,
+      "expires": "2026-06-15",
+      "hwid": "",
+      "max_devices": 1,
+      "note": "Ahmed 6 months"
+    }
+  },
+  "logs": {}
+}
