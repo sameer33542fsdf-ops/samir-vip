@@ -1,0 +1,17 @@
+{
+  "SAMIR-0249-B52B-5A46": {
+    "active": true,
+    "expires": "2026-12-31",
+    "note": "Samir Admin"
+  },
+  "SAMIR-VIP1-0001-AAAA": {
+    "active": true,
+    "expires": "2026-06-15",
+    "note": "Ahmed 6 months"
+  },
+  "SAMIR-VIP2-0002-BBBB": {
+    "active": true,
+    "expires": "2027-01-01",
+    "note": "Mohamed lifetime"
+  }
+}
